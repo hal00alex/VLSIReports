@@ -1,2 +1,4 @@
-# VLSIReports
-A VLSI Report on SSP Verilog
+# VLSI DEMOS
+Contains Reports on 
+- Inverter Layouts 
+- SSP Verilog 
